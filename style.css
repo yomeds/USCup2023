@@ -11,7 +11,7 @@
 }
 
 body {
-  background: linear-gradient(180deg, #9AC3E8, #F8FCFF);
+  background: linear-gradient(270deg, #9AC3E8, #F8FCFF);
   background-size: 200% 200%;
   animation: animateBackground 2s ease infinite;
   font-family: 'FunFont', sans-serif;
